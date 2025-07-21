@@ -63,7 +63,7 @@ authrizeUser();
             <img src="images/ipad.jpg" alt="ipad">
             <div class="card-content">
                 <h3>Ipad</h3>
-                <p>This is a short description for the third item.</p>
+                <p>a versatile tablet computer developed by Apple, known for its touch-screen interface and portability.</p>
 <form method="post" action="cart/add_to_cart.php">
     <input type="hidden" name="product_id" value="3">
     <input type="hidden" name="product_name" value="ipad">
