@@ -47,7 +47,7 @@ $result = $valid->validation($name, $username, $password, $age , $confirm);
     Confirm Password:
     <input type="password" name="confirm" ><br><br>
     
-    Date of Birth:
+    Age:
     <input type="number" name="age" ><br><br>
     
     <input type="submit" value="Register">
